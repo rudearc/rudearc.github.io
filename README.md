@@ -1,2 +1,2 @@
-# rudevenger.github.io
-This is my error diary
+# ~~A thread~~
+Catatan error dan masalah yang saya alami saat belajar _programming_.
