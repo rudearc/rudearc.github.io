@@ -4,12 +4,12 @@
 
 # Site
 title: diary
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
+greeting: Yo, i am Syarif
+description: Basically this page is a diary of the errors and problems I had while learning programming
+keywords: rudevenger
+author: syarif
 language: en
-timezone: ''
+timezone: UTC
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
