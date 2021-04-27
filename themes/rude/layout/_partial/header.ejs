@@ -1,3 +1,13 @@
 <div class="header">
-    <h1 class="title"><s><%= config.title %></s></h1>
+    <h1 class="title"><s><%= theme.title %></s></h1>
+</div>
+<div class="masthead">
+    <div class="container">
+        <ul>
+            <% for (var i in theme.menu){ %>
+                <li><span><a  class="" href="<%- url_for(theme.menu[i]) %>"><%= i %></a></span></li>
+            <%} %>
+        </ul>
+        <hr class="border-bottom">
+    </div>
 </div>
