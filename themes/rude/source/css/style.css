@@ -6,7 +6,6 @@ body {
     font-family:  "Inter", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 1.6em;
     line-height: 1.6;
     color: #222;
 }
@@ -25,41 +24,26 @@ h6, .h6 {
     border-bottom: 1px solid rgb(230, 231, 232);
 }
 a {
-    color: #222;
+    color: #222 ;
     text-decoration: none !important;
     
 }
 a, a:active{
-    color: #222 !important;
+    color: blue;
 }
 
 /*
  * Override Bootstrap's default container.
  */
 
-@media (min-width: 1200px) {
-    .container {
-        width: 970px;
-    }
-}
-
 ul {
   list-style: none;
   font-weight: 500;
   font-size: large;
-  margin-left: 50px;
-  margin-right: 50px;
-}
-
-hr {
-    margin-left: 100px;
-    margin-right: 100px;
 }
 
 li {
   display: inline-block;
-  padding: 10px;
-  padding-bottom: 5px;
 }
 
 span {
@@ -105,32 +89,6 @@ span:hover:after {
  * Blog name and description
  */
 
-.header {
-    padding-left: 50px;
-    padding-top: 40px;
-}
-.title {
-    margin-top: 30px;
-    margin-left: 80px;
-    margin-bottom: 0;
-    font-weight: normal;
-}
-.bio {
-    margin-left: 100px;
-}
-.description {
-    margin-top: 5px;
-}
-
-
-/*
- * Main column and sidebar layout
- */
-
-.main {
-    margin-left: 115px;
-}
-
 /* Pagination */
 .pager {
     margin-bottom: 60px;
@@ -164,11 +122,3 @@ span:hover:after {
 /*
  * Footer
  */
-
-.footer {
-    margin-left: 115px;
-    margin-top: 30px;
-}
-.footer p:last-child {
-    margin-bottom: 0;
-}
