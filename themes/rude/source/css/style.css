@@ -21,7 +21,7 @@ h6, .h6 {
     font-weight: 400;
 }
 .border-bottom {
-    border-bottom: 1px solid rgb(230, 231, 232);
+    border-bottom: 1px solid #222 !important;
 }
 a {
     color: #222 ;
@@ -35,6 +35,11 @@ a, a:active{
 /*
  * Override Bootstrap's default container.
  */
+ @media (min-width: 992px){
+  .container{
+    max-width:970px;
+  }
+}
 
 ul {
   list-style: none;
