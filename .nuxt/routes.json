@@ -1,0 +1,23 @@
+[
+  {
+    "name": "fun",
+    "path": "/fun",
+    "component": "C:\\\\Users\\\\ASUS\\\\Documents\\\\WeebStuff\\\\github\\\\orenospace\\\\rudevenger.github.io\\\\pages\\\\fun.vue",
+    "chunkName": "pages/fun",
+    "_name": "_6f19c591"
+  },
+  {
+    "name": "more-fun",
+    "path": "/more-fun",
+    "component": "C:\\\\Users\\\\ASUS\\\\Documents\\\\WeebStuff\\\\github\\\\orenospace\\\\rudevenger.github.io\\\\pages\\\\more-fun\\\\index.vue",
+    "chunkName": "pages/more-fun/index",
+    "_name": "_9b385106"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\ASUS\\\\Documents\\\\WeebStuff\\\\github\\\\orenospace\\\\rudevenger.github.io\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_423c28e4"
+  }
+]
