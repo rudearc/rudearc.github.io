@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/more-fun", {data:[{}],fetch:{},mutations:void 0});
