@@ -1,4 +1,3 @@
 export default {
-    target: 'static',
-    buildDir: 'nuxt-dist'
+    target: 'static'
 }
