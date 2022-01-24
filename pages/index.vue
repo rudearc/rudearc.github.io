@@ -1,9 +1,8 @@
 <template>
-    <main>
-        <h1 class="red">Hello world!</h1>
-        <NuxtLink to="/more-fun">internal link</NuxtLink>
-        <a href="https://nuxtjs.org">External link</a>
-    </main>
+    <div class="container">
+        <h1>rudearc</h1>
+        <p>Yo!, to be honest i need to update this page, but, you know, we only have 24hours a day.</p>
+    </div>
 </template>
 
 <script>
@@ -15,7 +14,9 @@
 </script>
 
 <style>
-    .red {
-        color: red;
+    .container{
+        margin: auto;
+        width: 60%;
+        padding: 10px;
     }
 </style>
